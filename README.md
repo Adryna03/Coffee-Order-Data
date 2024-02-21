@@ -5,7 +5,7 @@ Currently, I'm re-learning and want to explore more about Data Analysis.
 
 # Projects
 1. Coffee Order Data 
-- Description: To analyse total sales, sales by country and top 5 customers
+- Description: To visualise total sales of different type of coffee beans, sales by country and top 5 customers.
 - Tools Used: Excel
 - Techniques Applied: Pivot table; XLOOKUP; Index, Match; Interactive Dashboard
 - Results: Interactive Dashboard of total sales, sales by country and top 5 customers with slicers and timeline.
